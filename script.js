@@ -52,7 +52,7 @@ if (scrollBtn) {
     });
 }
 
-/* ========== 「ダブルダッチ好きです」ボタン機能 ========== */
+/* ========== 「ダブルダッチが好きです」ボタン機能 ========== */
 const likeBtn = document.getElementById('likeBtn');
 if (likeBtn) {
     likeBtn.addEventListener('click', function() {
